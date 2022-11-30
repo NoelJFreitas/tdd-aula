@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "jest --coverage",
-    "test:watch": "yarn test -- --watch"
+    "test:watch": "jest --coverage  --watch"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
